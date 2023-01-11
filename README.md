@@ -1,5 +1,5 @@
 - 👋 Hi, I’m pattanan
-- 👀 I’m interested in nothing
+
 
 
 
