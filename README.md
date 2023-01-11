@@ -1,5 +1,5 @@
 - 👋 Hi, I’m pattanan
-
+- Study at Kasetsart University, Faculty of engineering, Software and knowledge engineering.
 
 
 
