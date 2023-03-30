@@ -1,5 +1,6 @@
-### <h1 align="center"> Hi, I’m pattanan. Welcome to my Github profile. 👋 </h1>
-<h2>Study at Kasetsart University, Faculty of engineering, Software and knowledge engineering.</h2>
+<h1 align="center"> Hi, I’m pattanan. Welcome to my Github profile. 👋 </h1>
+<h2>I'm study at Kasetsart University, Faculty of engineering, Software and knowledge engineering.</h2>
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pattanan-pr&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
