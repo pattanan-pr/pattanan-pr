@@ -1,9 +1,3 @@
-- 👋 Hi, I’m pattanan
-- 
-
-
-
-
 ### <h1 align="center"> Hi, I’m pattanan. Welcome to my Github profile. 👋 </h1>
 <h2>Study at Kasetsart University, Faculty of engineering, Software and knowledge engineering.</h2>
 
