@@ -5,8 +5,7 @@
 <br>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pattanan-pr&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-<br>
+
 <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pattanan-pr&langs_count=15&layout=compact&show_icons=true&theme=radical"/>
 
 ### Contact 📱
