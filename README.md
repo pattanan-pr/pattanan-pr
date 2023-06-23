@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, I'm Pattanan Prarom </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Pattanan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">I am a third year student at Kasetsart University in Software and Knowledge Engineering. I am interested in develop mobile application</h3>
 
 <br>
