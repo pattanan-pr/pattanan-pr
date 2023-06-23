@@ -6,7 +6,7 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif](https://cdn.discordapp.com/attachments/761848868034969640/1121699904868327454/Screenshot_2566-06-23_at_14.05.06.png)" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="" width = 250px></picture>
 
