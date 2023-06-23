@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="[https://capsule-render.vercel.app/api](https://c4.wallpaperflare.com/wallpaper/7/81/233/pixel-art-computer-linux-pixels-code-hd-wallpaper-preview.jpg)?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
 <h1 align="center"> Hi, I’m pattanan. Welcome to my Github profile. 👋 </h1>
