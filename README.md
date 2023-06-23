@@ -7,9 +7,9 @@
 
 <h3>About me</h3>
 
-- A passionate Self-taught mobile developer
+- A passionate Self-taught mobile developer.
 - Like making art!
-- Currently learning mobile Development by Self
+- Currently learning mobile Development by Self.
 - I’m currently open for a new opportunity.
 
 
