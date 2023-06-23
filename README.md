@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="[https://capsule-render.vercel.app/api](https://c4.wallpaperflare.com/wallpaper/7/81/233/pixel-art-computer-linux-pixels-code-hd-wallpaper-preview.jpg)?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 
 <h1 align="center"> Hi, I’m pattanan. Welcome to my Github profile. 👋 </h1>
 <br>
@@ -15,3 +12,6 @@
 ### Contact 📱
 ---
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pattanan-prarom-b26213262/)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
