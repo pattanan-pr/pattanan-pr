@@ -35,6 +35,7 @@
 
 <br>
 
+<p align="center">
 
 - **Frameworks**:
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -43,11 +44,15 @@
 <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
 <br>
 
+<p align="center">
+
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     
 <br>
+
+<p align="center">
 
 - **Softwares and Tools**:
 
