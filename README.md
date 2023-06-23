@@ -37,7 +37,7 @@
 
 
 - **Frameworks**:
-<p align="align="right"">
+<p align="align="left"">
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
@@ -47,7 +47,7 @@
 
 - **Cloud Hosting**:
 
-<p align="right">
+<p align="left">
     <img src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
