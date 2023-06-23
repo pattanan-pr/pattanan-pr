@@ -14,11 +14,6 @@
 - I’m currently open for a new opportunity.
 
 
-<img src="https://cdn.discordapp.com/attachments/761848868034969640/1121699904868327454/Screenshot_2566-06-23_at_14.05.06.png"><br><br>
-
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
 <br>
 
 
@@ -59,14 +54,12 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<div align="center">
+
 
 
 <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pattanan-pr&langs_count=15&layout=compact&show_icons=true&theme=radical"/>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pattanan-pr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
 
 <br>
 
