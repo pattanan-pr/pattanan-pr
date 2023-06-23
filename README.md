@@ -4,10 +4,8 @@
 <br>
 
  ---
- 
- **About me**
 
-<br>
+<h3>About me</h3>
 
 - A passionate Self-taught mobile developer
 - Like making art!
