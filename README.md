@@ -2,10 +2,10 @@
 <h3 align="center">I am a third year student at Kasetsart University in Software and Knowledge Engineering. I am interested in develop mobile application</h3>
 
 <br>
- - **About me**
 
  ---
-
+ 
+ **About me**
 
 <br>
 
@@ -49,7 +49,7 @@
 
 
 <br>
-
+---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
