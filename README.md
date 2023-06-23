@@ -1,12 +1,5 @@
 <h1 align="center"><b>Hi, I'm Pattanan Prarom </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">I am a third year student at Kasetsart University in Software and Knowledge Engineering. I am interested in develop mobile application</h3>
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--iGdJ8_RI--/c_imagga_scale,f_auto,fl_progressive,h_720,q_66,w_1280/https://thepracticaldev.s3.amazonaws.com/i/q7q5tlmm008s28c9r4f6.gif"/>
-<br>
-<br>
-<p align="center">
- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there;Second+line+of+text)](https://git.io/typing-svg)
-</p>
-
 
 <br>
 
