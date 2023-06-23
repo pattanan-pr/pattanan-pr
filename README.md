@@ -62,6 +62,12 @@
 
 <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pattanan-pr&langs_count=15&layout=compact&show_icons=true&theme=radical"/>
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pattanan-pr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="adam-pw" /></p>
+
+<br>
+
 </a>
 </div>
 
