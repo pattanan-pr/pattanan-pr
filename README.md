@@ -14,7 +14,7 @@
 - I’m currently open for a new opportunity.
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://cdn.discordapp.com/attachments/761848868034969640/1121699904868327454/Screenshot_2566-06-23_at_14.05.06.png"><br><br>
 
 ## <img src="https://cdn.discordapp.com/attachments/761848868034969640/1121699904868327454/Screenshot_2566-06-23_at_14.05.06.png" width ="25"><b> Skills</b>
 <br>
