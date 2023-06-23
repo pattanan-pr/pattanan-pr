@@ -15,7 +15,7 @@
 - A passionate Self-taught mobile developer
 - Like making art!
 - Currently learning Web Development by Self
-- I’m currently open for an Intern or a new job opportunity.
+- I’m currently open for a new opportunity.
 
 <br><br>
 
