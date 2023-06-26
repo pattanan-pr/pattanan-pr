@@ -111,7 +111,7 @@
 <br>
 
 <li>
-<a href="pattanan.prar@gmail.com" target="_blank">
+<a href="[pattanan.prar@gmail.com](https://mail.google.com/mail/u/2/#inbox)" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  pattanan-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
